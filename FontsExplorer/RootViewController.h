@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  FontsExplorer
 //
 //  Created by wanghuiyong on 25/01/2017.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UITableViewController
 
 @end
-
